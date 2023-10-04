@@ -2,7 +2,7 @@
 
 ## NON-TECHNICAL EXPLANATION OF THE PROJECT
 This project seeks to develop a machine learning model which can predict the winner of a horse race using readily available data including race location, the going, starting odds, jockey, starting odds and industry ratings.
-A secondary objective was to evaluate the relative performance of a developer derived optimised model compared to models calculated to be optimal by the Microsoft Azure cloud machine learning service, so called AutoML.
+A secondary objective was to evaluate the relative performance of a developer derived optimised model compared to models calculated to be optimal by the Microsoft Azure cloud machine learning service, so called AutoML. The developer code is listed in notebook Developer.ipynb, the AutoML code in AutoML.ipynb.
 
 Both models produced a precision of around 63%. The Precision metric answers the question “Out of all the samples that the model classified as positive, how many were actually positive?” which is important in cases such as this where the cost of a false positive is high.
 
