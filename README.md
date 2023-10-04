@@ -1,5 +1,4 @@
-# PROJECT TITLE 
-An Investigation into the Use of Machine Learning to Predict the Winner or Horse Races
+# An Investigation into the Use of Machine Learning to Predict the Winner or Horse Races 
 
 ## NON-TECHNICAL EXPLANATION OF THE PROJECT
 This project seeks to develop a machine learning model which can predict the winner of a horse race using readily available data including race location, the going, starting odds, jockey, starting odds and industry ratings.
