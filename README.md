@@ -44,10 +44,10 @@ The Azure AutoML models were optimised automatically.
  
 ## RESULTS
 Preliminary data investigation showed that, as expected, the dataset is highly unbalanced.
+![image](https://github.com/qcrisp/ICBS_portfolio/assets/65131824/b4264821-8a77-4ded-b78e-7e95b60cd324)
  
 A correlation matrix shows the greatest negative correlation between res_win and the feature RPR which is the horse rating produced by The Racing Post, a horse racing newspaper.
-
- 
+![image](https://github.com/qcrisp/ICBS_portfolio/assets/65131824/c19203ce-851c-40bb-ae8d-306e614672d7)
 
 The performance metrics for the developer model were:
 Accuracy: 88.40%
